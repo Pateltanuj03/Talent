@@ -1,0 +1,61 @@
+﻿.App {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0.1rem;
+  background-color: black !important;
+  font-size: small !important;
+  color: whitesmoke !important;  
+}
+.App1 {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-size: medium !important; 
+  background-color: black !important;
+  color: whitesmoke !important;  
+}
+.options {
+  position: absolute;
+  margin-top: 1px;
+  font: 10px;
+  background: blue;
+  color: white;
+  height: 50px;
+}
+.footerset{
+  position: fixed !important;
+  padding: 10px 10px 0px 10px !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  background-color: black !important;
+  color: whitesmoke !important;
+}
+
+.addbtn{
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.moving1{
+  margin-left:70px !important;
+  width:90% !important;
+  margin-right: 40px !important;
+  margin-top: 15px;
+}
+.divpad{
+  margin-left:70px !important;
+  padding-bottom: 70px;
+}
+.formmargin{
+margin: 30px !important;
+}
+
+.formwidth{
+  width: 500px !important;
+}
+
+.form,.posts{
+  margin-top: 3rem;
+}
+h4.fontsize{
+  font-size: 16%;
+}
